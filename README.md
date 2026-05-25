@@ -4,7 +4,7 @@
 ## 🚀 Project Summary
 Built an interactive **Ecommerce Sales Dashboard** in Excel to transform raw, inconsistent sales data into structured insights for decision-making.
 
-This project focuses on **data reliability, channel performance analysis, and trend identification**, simulating a real-world business reporting scenario.
+This project focuses on **data reliability, channel performance analysis, and trend identification**, simulating a real-world business reporting scenario
 
 ---
 
